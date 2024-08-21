@@ -1,5 +1,3 @@
-import 'package:image_picker/image_picker.dart';
-
 import 'home/home_repository.dart';
 
 // This class is the medium between repositories

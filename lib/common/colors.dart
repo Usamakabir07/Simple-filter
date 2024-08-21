@@ -6,6 +6,8 @@ class MyColors {
   static var appDarkLevel1 = const Color(0xFFf47880);
   static var appDarkLevel2 = const Color(0xFF1F2327);
   static var appDark = const Color(0xFFec4d69);
+  static var blackColor = const Color(0xFF111111);
+  static var whiteColor = const Color(0xFFFFFFFF);
 }
 
 class MyGradientColors {

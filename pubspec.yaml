@@ -44,6 +44,7 @@ dependencies:
   flutter_native_splash: ^2.4.1
   image_picker: ^1.1.1
   permission_handler: ^11.3.1
+  carousel_slider: ^5.0.0
 
 flutter_native_splash:
   color: "#000000"
@@ -72,6 +73,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/
+    - assets/images/filters/
+    - assets/images/ai_filters/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

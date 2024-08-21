@@ -15,7 +15,6 @@ class _SplashScreenState extends State<SplashScreen>
     with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   late Animation<double> _animation;
-  bool _showWhiteEffect = false;
 
   @override
   void initState() {
